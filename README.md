@@ -21,7 +21,7 @@
 [![Rozi](https://img.shields.io/badge/Rozi-25D366?style=for-the-badge&logo=Rozi&logoColor=white)](https://wa.me/6285828764046)
 
 # Ambil seesion.data.json Di sini
-[![Session.data.json](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@HEROKUAKUN/Qr-2#README.md)
+[![Session.data.json](https://repl.it/badge/github/EmonCme/v2)](https://replit.com/@HEROKUAKUN/Qr-2#README.md)
 
 ## Heroku Buildpack
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alpiii22/oscar-md-v2)
